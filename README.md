@@ -1,4 +1,4 @@
-<h1>**EJERCICIOS PROGRAMACIÓN: BASH**</h1>
+<h1>EJERCICIOS PROGRAMACIÓN: BASH</h1>
 
 Prerrequisitos:
 - Kali Linux
