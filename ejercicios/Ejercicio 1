@@ -1,4 +1,17 @@
-nano ej_01.sh
+#!/bin/bash
+
+# Definir colores
+RED='\033[0;31m'
+GREEN='\033[0;32m'
+BLUE='\033[0;34m'
+NC='\033[0m' # Sin color
+
+# Usar colores en la salida del script
+echo -e "${RED}En un lugar de la Mancha, de cuyo nombre no quiero acordarme${NC}" 
+echo -e "${GREEN}no hace mucho tiempo que vivía un hidalgo de los de lanza en astillero${NC}"
+echo -e "${BLUE}
+
+${BLUE}nano${NC} ej_01.sh
 
 (insertar)
 #!/bin/bash
