@@ -1,5 +1,7 @@
 Creamos el archivo **ej_01.sh** utilizando el editor de texto `nano`.
-- `nano ej_01.sh`
+- `nano ej_01.sh` <p>
+
+![Descripción de la imagen](nano.png)
 
 Le decimos al sistema que ejecute el archivo utilizando `bash`.
 Al ejecutar el archivo, se imprime el texto que contiene el archivo, con el comando `echo`. <p>
