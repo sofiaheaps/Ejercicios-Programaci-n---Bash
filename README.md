@@ -1,6 +1,7 @@
 <h1>EJERCICIOS PROGRAMACIÓN: BASH</h1>
 
-Prerrequisitos:
+#### <span style="color:blue">Requisitos:</span>
+
 - Kali Linux
 - Crear la estructura de carpetas: $HOME/Scripts
 - El objetivo es codificar, guardar y ejecutar scripts en bash que realicen las
