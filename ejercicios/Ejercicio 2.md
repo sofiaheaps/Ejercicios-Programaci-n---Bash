@@ -1,8 +1,8 @@
-**Listar los ficheros en formato normal**
+Lista los ficheros en formato normal:
 - `ls`
 
   
 
-**Listar los ficheros en formato largo**
+Lista los ficheros en formato largo:
 - `ls -l`
 
