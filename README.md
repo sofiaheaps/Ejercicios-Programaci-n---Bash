@@ -1,6 +1,6 @@
 <h1>EJERCICIOS PROGRAMACIÓN: BASH</h1>
 
-#### <span style="color:blue">Requisitos:</span>
+<h4><span style="color:blue">Requisitos:</span></h4>h4>
 
 - Kali Linux
 - Crear la estructura de carpetas: $HOME/Scripts
