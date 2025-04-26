@@ -1,0 +1,9 @@
+nano ej_01.sh
+
+(insertar)
+#!/bin/bash
+“En un lugar de la Mancha, de cuyo nombre no quiero acordarme” 
+“no hace mucho tiempo que vivía un hidalgo de los de lanza en astillero”
+“adarga antigua, rocín flaco y galgo corredor”
+
+cat ej_01.sh
