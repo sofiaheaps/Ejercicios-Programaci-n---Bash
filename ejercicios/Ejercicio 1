@@ -1,6 +1,7 @@
 nano ej_01.sh
 
-(insertar)
+#incluir lo siguiente:
+
 #!/bin/bash
 echo “En un lugar de la Mancha, de cuyo nombre no quiero acordarme” 
 echo “no hace mucho tiempo que vivía un hidalgo de los de lanza en astillero”
