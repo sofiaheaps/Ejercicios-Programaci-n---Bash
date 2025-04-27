@@ -1,3 +1,11 @@
+<h2>Ejercicio 8</h2>
+
+<h4>Crear una función f_hola que muestre un mensaje hola y llamarla desde el
+programa principal. <p>
+Utilizar un comentario en la función para documentar lo que hace.</h4>
+
+<br>
+
 Creamos el archivo **ej_08.sh** con el editor `nano`.
 - `nano ej_08.sh`
 
