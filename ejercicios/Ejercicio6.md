@@ -1,4 +1,11 @@
-Creamos el archivo ej_06.sh con el editor `nano`.
+<h2>Ejercicio 6</h2>
+
+<h4>Mostrar 8 veces “Esta es la línea X” donde X es en número de línea, con una
+pausa de 1 segundo entre cada mensaje.</h4>
+
+<br>
+
+Creamos el archivo **ej_06.sh** con el editor `nano`.
 - `nano ej_06.sh`
 
  <img src="src/nano6.png" alt="nano" width="200" />
