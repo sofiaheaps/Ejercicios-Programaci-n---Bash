@@ -1,4 +1,12 @@
-Creamos el archivo **ej_01.sh** utilizando el editor de texto `nano`.
+<h2>Ejercicio 4</h2>
+
+<h4>Mostrar el mensaje “¡Soy root!” si el usuario que lo ejecuta es root, si no
+mostrar el mensaje “No soy root :(“</h4>
+
+<br>
+
+Creamos el archivo **ej_01.sh** utilizando el editor de texto `nano`. <p>
+ 
 - `nano ej_04.sh` <p>
 
  <img src="src/nano4.png" alt="nano" width="270" />
