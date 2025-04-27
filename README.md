@@ -53,7 +53,7 @@ pausa de 1 segundo entre cada mensaje.
 <br>
 
 **Ejercicio 10 (ej_010.sh)**
-- Mostrar el texto: <p->
+- Mostrar el texto: <p>
     “El parámetro 1 es: X” <p>
     “El parámetro 2 es: Y” <p>
 Donde X e Y serán los valores de los parámetros que se le pasan al script.
