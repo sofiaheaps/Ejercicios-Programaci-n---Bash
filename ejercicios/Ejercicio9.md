@@ -1,3 +1,9 @@
+<h2>Ejercicio 9</h2>
+
+<h4>Ejecutar el ejercicio 01 visualizando la ejecución línea por línea</h4>
+
+<br>
+
 Copiamos el contenido del **ej_01.sh** dentro del archivo **ej_09.sh**.
 - `cp ej_01.sh ej_09.sh`
 
