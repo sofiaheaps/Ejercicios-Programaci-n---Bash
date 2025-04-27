@@ -8,7 +8,7 @@ Editamos el archivo **ej_09.sh** con `nano`.
 
  <img src="src/nano9.png" alt="nano" width="270" />
 
-Añadimos el parámetro -x, que habilita el modo depuración. Esto hace que al ejecutar el archivo, se muestre cada comando y los resultados de cada comando. <p>
+Añadimos el parámetro `-x`, que habilita el modo depuración. Esto hace que al ejecutar el archivo, se muestre cada comando y los resultados de cada comando. <p>
 - `#!/bin/bash` <p>
 `echo “En un lugar de la Mancha, de cuyo nombre no quiero acordarme”` <p>
 `echo “no hace mucho tiempo que vivía un hidalgo de los de lanza en astillero”` <p>
