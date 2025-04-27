@@ -1,4 +1,4 @@
-<h2>Ejercicio 1</h2>
+<h2>Ejercicio 2</h2>
 
 <h4>Listar los ficheros del directorio actual en formato normal y formato largo.</h4>
 
