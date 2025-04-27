@@ -1,3 +1,9 @@
+<h2>Ejercicio 7</h2>
+
+<h4>Mostrar el contenido de un fichero que se le pasa como parámetro.</h4>
+
+<br>
+
 Creamos el archivo **ej_07.sh** con el editor `nano`.
 - `nano ej_07.sh`
 
